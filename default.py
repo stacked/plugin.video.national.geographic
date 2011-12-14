@@ -5,8 +5,8 @@ import simplejson as json
 __plugin__ = 'National Geographic'
 __author__ = 'stacked <stacked.xbmc@gmail.com>'
 __url__ = 'http://code.google.com/p/plugin/'
-__date__ = '12-13-2011'
-__version__ = '1.0.1'
+__date__ = '12-14-2011'
+__version__ = '2.0.0'
 __settings__ = xbmcaddon.Addon( id = 'plugin.video.national.geographic' )
 
 next_thumb = os.path.join( __settings__.getAddonInfo( 'path' ), 'resources', 'media', 'next.png' )
